@@ -1,6 +1,6 @@
 Simple Deduction of Physical Quantities
 
-Author: Ilya Zuev
+Author: Illia Zuiev
 Version: v5.0.0
 Created with: Mendix Studio Pro
 
@@ -88,7 +88,7 @@ Added pages for power and speed calculation
 
 📜 License
 
-MIT License © 2025 Ilya Zuev
+MIT License © 2025 Illia Zuiev
 You are free to use, copy, and modify this project for educational or personal purposes.
 
 💡 Notes
