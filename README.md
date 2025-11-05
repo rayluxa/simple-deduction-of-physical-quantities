@@ -6,20 +6,35 @@ Created with: Mendix Studio Pro
 
 🧩 Description
 
-This Mendix application demonstrates the calculation and deduction of basic physical quantities such as velocity, acceleration, and force using simple user inputs and formulas.
-The project was developed for educational and demonstrational purposes.
+This Mendix application demonstrates the calculation and deduction of basic physical quantities such as power (výkon) and speed (rýchlosť) using simple formulas and user inputs.
+The interface of the application is fully in Slovak language, designed for easy understanding and use by Slovak-speaking students.
+The project was developed for educational purposes as part of studies at the Technical University of Košice (TUKE FVT).
+
+⚙️ Features
+
+Výpočet výkonu (Power Calculation):
+User inputs voltage (napätie, V) and current (prúd, A); the app automatically calculates power (výkon, W).
+
+Výpočet rýchlosti (Speed Calculation):
+User enters distance (dráha, m) and time (čas, s); the app calculates speed (rýchlosť, m/s).
+
+Clean, modern UI built with Mendix Atlas UI framework
+
+Full Slovak-language interface
+
+Educational and demonstration purpose
 
 ⚙️ Technologies
 
-Mendix Studio Pro (version used for development)
+Mendix Studio Pro (version 11.2.0)
 
 Atlas UI framework
 
 Microflows and nanoflows
 
-Java actions (if any were used)
-
 Mendix built-in database
+
+Java actions (optional)
 
 🚀 How to run locally
 
@@ -35,7 +50,7 @@ Open your browser and go to http://localhost:8080
 📁 Project Structure
 
 / (root)
-├─ MyApp.mpr — Main project file
+├─ Zuiev_Illia.mpr — Main project file
 ├─ javasource/ — Java actions (if used)
 ├─ themesource/ — UI layouts and styles
 ├─ resources/ — Config files and assets
@@ -66,6 +81,10 @@ git push origin v5.0.0
 🧾 Changelog
 
 v5.0.0 – Initial public release.
+
+Added Slovak UI
+
+Added pages for power and speed calculation
 
 📜 License
 
